@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">
+        M -1040,0
+        L -840,0
+        L -840,115
+        L -1040,115
+        Z
+        @right
+    </string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
+        M 0.0,0.0
+        h 256
+        v 136
+        h -256
+        Z
+        @left
+    </string>
+    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <string name="display_cutout_emulation_overlay">nio</string>
+</resources>
